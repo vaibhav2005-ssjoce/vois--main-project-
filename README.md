@@ -99,8 +99,7 @@ jupyter notebook Seasonal_Agriculture_Performance_Analysis.ipynb
 This project is for educational purposes as part of the VOIS × AICTE program.
 
 ## 🙋 Author
-  MR Vaibhav Deepak Mane 
+  
+**Vaibhav Deepak Mane**
+shivajirao.s jhondhale clg of eng 
 
-**[Your Name]**
-[Your College Name]
-[Your LinkedIn / Portfolio Link]
